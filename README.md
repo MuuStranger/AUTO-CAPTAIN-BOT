@@ -15,16 +15,16 @@
 
 ## 𝗙𝗘𝝠𝝩𝗨𝗥𝗘𝗦
 
-- [x] Auto Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB Search
-- [x] Inline Search
-- [x] Random Pics
-- [x] Ids & User Info 
-- [x] Ban & Unban 
+- [x] Auto Filter✅
+- [x] IMDB✅
+- [x] Admin Commands✅
+- [x] Broadcast✅
+- [x] Index✅
+- [x] IMDB Search✅
+- [x] Inline Search ✅
+- [x] Random Pics✅
+- [x] Ids & User Info ✅
+- [x] Ban & Unban ✅
 
  ## 𝗗𝗘𝗣𝗟𝝤𝝪 𝝩𝗨𝝩𝝤𝗥𝗜𝝠𝗟
 You Can Deploy This Bot Anywhere 🇱🇰
@@ -33,7 +33,7 @@ You Can Deploy This Bot Anywhere 🇱🇰
 <p>
 <br>
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KisaraPesanjithPerera/Captain-Price) 
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MuuStranger/AUTO-CAPTAIN-BOT) 
 
 </p>
 </details>
@@ -80,8 +80,6 @@ You Can Deploy This Bot Anywhere 🇱🇰
 
 ## 𝗖𝗥𝗘𝗗𝗜𝝩𝗦 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
- - Thanks To Mahesh For His Awesome [Media Search Bot](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) For Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
- - Thanks To [Senu Gamer Boy](https://github.com/SenuGamerBoy) And His Friend [Subinps](https://github.com/Subinps)
+ - Thanks To [Trojanz](https://github.com/trojanzhex)
  - Thanks To All Everyone In This Journey
 
